@@ -14,3 +14,11 @@ You can view the live website here: [Zeid's Portfolio](#) <!-- Replace `#` with 
 - **Skills Page**: Technical and non-technical skills of mine
 - **Contact Page**: Contact form powered by Formspree.
 
+## Technologies Used
+
+- **Frontend**: React, JavaScript, HTML, CSS
+- **Styling**: CSS and Framer Motion for animations
+- **Deployment**: Netlify
+- **Contact Form**: Formspree for handling form submissions
+
+
