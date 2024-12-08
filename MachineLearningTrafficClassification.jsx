@@ -1,6 +1,6 @@
 import React from 'react';
 
-const BuildWorld = () => {
+const MachineLearningTrafficClassification = () => {
   return (
     <div className="project-details">
       <h1>Build Your Own World</h1>
