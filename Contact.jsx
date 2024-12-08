@@ -30,7 +30,7 @@ const Contact = () => {
   return (
     <div className="contact">
       <h1>Contact Me</h1>
-      <p>Feel free to reach out for collaboration or just a friendly chat!</p>
+      <p>Feel free to reach out for collaboration or any questions!</p>
       <form className="contact-form" onSubmit={handleSubmit}>
         <input
           type="text"
