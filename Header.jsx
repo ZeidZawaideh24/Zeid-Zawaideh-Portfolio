@@ -1,19 +1,23 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const Header = () => (
-  <header className="bg-gray-800 text-white py-4">
-    <nav className="container mx-auto flex justify-between items-center">
-      <h1 className="text-lg font-bold">My Portfolio</h1>
-      <ul className="flex space-x-4">
-        <li><Link to="/" className="hover:underline">Home</Link></li>
-        <li><Link to="/about" className="hover:underline">About</Link></li>
-        <li><Link to="/projects" className="hover:underline">Projects</Link></li>
-        <li><Link to="/skills" className="hover:underline">Skills</Link></li>
-        <li><Link to="/contact" className="hover:underline">Contact</Link></li>
-      </ul>
-    </nav>
-  </header>
-);
+const Header = () => {
+  return (
+    <header>
+      <nav className="navbar">
+        <div className="logo">
+          <Link to="/">Zeid Zawaideh</Link>
+        </div>
+        <ul className="nav-links">
+          <li><Link to="/">Home</Link></li>
+          <li><Link to="/about">About</Link></li>
+          <li><Link to="/skills">Skills</Link></li>
+          <li><Link to="/projects">Projects</Link></li>
+          <li><Link to="/contact">Contact</Link></li>
+        </ul>
+      </nav>
+    </header>
+  );
+};
 
 export default Header;
