@@ -11,7 +11,7 @@ const Home = () => {
     >
       <section className="intro">
         <div className="bio">
-          <h1>Qasim Hussain</h1>
+          <h1>Zeid Zawaideh</h1>
           <p>"You can take the horse to the water but you cannot make it drink."</p>
           <p className="intro-text">
             I am a graduating senior at CSUF looking for expertise in software and 
