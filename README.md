@@ -11,7 +11,7 @@ You can view the live website here: [Zeid's Portfolio](#) <!-- Replace `#` with 
 - **Home Page**: Introduction and highlights about me.
 - **About Page**: Overview of my education, experience, and background.
 - **Projects Page**: Display of my work and academic realted projects.
-- **Skills Page**: Technical and non-technical skills of mine
+- **Skills Page**: Technical and non-technical skills of mine.
 - **Contact Page**: Contact form powered by Formspree.
 
 ## Technologies Used
