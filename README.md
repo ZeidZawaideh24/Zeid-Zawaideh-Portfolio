@@ -3,10 +3,6 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience.
 - **CWID**: 887079481
 
-## Live Website
-
-You can view the live website here: [Zeid's Portfolio](#) <!-- Replace `#` with your portfolio link -->
-
 ## Features
 
 - **Home Page**: Introduction and highlights about me.
