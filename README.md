@@ -1,6 +1,7 @@
 # Zeid Zawaideh's Personal Portfolio
 
 Welcome to my personal portfolio website. This project showcases my skills, academic and work-related projects, and experience.
+- **CWID**: 887079481
 
 ## Features
 
