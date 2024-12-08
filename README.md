@@ -1,7 +1,16 @@
-# Zeid Zawaideh's Personal portfolio
+# Zeid Zawaideh's Personal Portfolio
 
-Home Page: Introduction about me.
-About Page: Overview of my education, experience, and background.
-Projects Page: Display of my key projects and expierence
-Skills Page: Technical and non-technical skills 
-Contact Page: A functional contact form 
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience.
+
+## Live Website
+
+You can view the live website here: [Zeid's Portfolio](#) <!-- Replace `#` with your portfolio link -->
+
+## Features
+
+- **Home Page**: Introduction and highlights about me.
+- **About Page**: Overview of my education, experience, and background.
+- **Projects Page**: Display of my work and academic realted projects.
+- **Skills Page**: Technical and non-technical skills of mine
+- **Contact Page**: Contact form powered by Formspree.
+
