@@ -28,4 +28,4 @@ const MachineLearningTrafficClassification = () => {
   );
 };
 
-export default Machine Learning Traffic Classification;
+export default MachineLearningTrafficClassification;
