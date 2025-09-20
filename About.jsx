@@ -28,9 +28,8 @@ const About = () => {
         <p>Bachelor of Science in Computer Science, California State University, Fullerton</p>
         
         <h2>Skills</h2>
-        <p>Programming Languages: Python, Java, C, C++, HTML/CSS, JavaScript, React, SQL</p>
-
-        <a href="/Resume(Official).pdf" download className="resume-btn">Download My Resume</a>
+        <p>Programming Languages: Python, C++, HTML/CSS, JavaScript, React, SQL</p>
+        
       </section>
     </motion.div>
   );
