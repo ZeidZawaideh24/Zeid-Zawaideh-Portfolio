@@ -20,4 +20,6 @@ Welcome to my personal portfolio website. This project showcases my skills, acad
 
 ## Projects
 
+When I have some downtime I will come back to this and add. If you are reading this and wondering where it is at - I simply do not have the time at this moment to update my protfolio. 
+
 
