@@ -15,7 +15,6 @@ Welcome to my personal portfolio website. This project showcases my skills, acad
 - **Frontend**: React, JavaScript, HTML, CSS
 - **Styling**: CSS and Framer Motion for animations
 - **Deployment**: Netlify
-- **Contact Form**: Formspree for handling form submissions
 
 ## Projects
 
