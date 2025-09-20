@@ -26,6 +26,7 @@ const About = () => {
         </p>
         <h2>Education</h2>
         <p>Bachelor of Science in Computer Science, California State University, Fullerton</p>
+        <p>Currently pursuing Masters of Science in Computer Science, Georgia Institute of Technology</p>
         
         <h2>Skills</h2>
         <p>Programming Languages: Python, C++, HTML/CSS, JavaScript, React, SQL</p>
