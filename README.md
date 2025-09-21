@@ -8,8 +8,7 @@ Welcome to my personal portfolio website. This project showcases my skills, acad
 - **About Page**: Overview of my education, experience, and background.
 - **Projects Page**: Display of my work and academic realted projects.
 - **Skills Page**: Technical and non-technical skills of mine.
-- **Contact Page**: Contact form powered by Formspree.
-
+- 
 ## Technologies Used
 
 - **Frontend**: React, JavaScript, HTML, CSS
